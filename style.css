@@ -264,6 +264,9 @@ body{
 }
 
 @media (max-width: 600px) {
+    body{
+        margin: 15px;
+    }
     .header{
         grid-template-areas: 
             'hero'
